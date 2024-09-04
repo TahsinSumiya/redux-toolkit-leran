@@ -1,0 +1,22 @@
+{
+  "transactions": [
+    {
+      "name": "Tahsin Sumiya",
+      "type": "income",
+      "amount": 600,
+      "id": 1
+    },
+    {
+      "name": "555",
+      "type": "income",
+      "amount": 5,
+      "id": 2
+    },
+    {
+      "name": "55",
+      "type": "expense",
+      "amount": 500,
+      "id": 3
+    }
+  ]
+}
